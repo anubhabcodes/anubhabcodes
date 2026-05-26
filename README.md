@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Anubhab Roy 👋
 
-<!--
-**anubhabcodes/anubhabcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring AI Engineer passionate about building intelligent solutions using Python, Machine Learning and Data Science.  
+Currently exploring AI/ML concepts, data-driven technologies and real-world projects while continuously improving my development skills.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- NumPy
+- pandas
+- Matplotlib
+- Scikit-learn
+- PyTorch
+- Machine Learning
+- Deep Learning
+- Data Visualization
+- Git & GitHub
+- SQL
+- AI/ML Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build impactful AI/ML projects
+- Contribute to open source
+- Strengthen problem-solving skills
+- Grow as an AI Engineer
+
+## Tech Stack
+Python • NumPy • pandas • Matplotlib • Scikit-learn • PyTorch • Git • GitHub • SQL
