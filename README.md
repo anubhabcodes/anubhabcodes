@@ -1,28 +1,22 @@
 # Hi, I'm Anubhab Roy 👋
 
 ## About Me
-Aspiring AI Engineer passionate about building intelligent solutions using Python, Machine Learning and Data Science.  
-Currently exploring AI/ML concepts, data-driven technologies and real-world projects while continuously improving my development skills.
+AI/ML enthusiast focused on Machine Learning, Deep Learning, and Data Science. Experienced with Python, SQL, Java, NumPy, Pandas, Matplotlib, and Scikit-learn, with a growing interest in PyTorch, model optimization, and intelligent automation. Passionate about developing data-driven solutions, experimenting with ML algorithms, and building scalable, real-world AI applications. 
 
-## Currently Learning
-- Python
-- NumPy
-- pandas
-- Matplotlib
-- Scikit-learn
-- PyTorch
-- Machine Learning
-- Deep Learning
-- Data Visualization
-- Git & GitHub
-- SQL
-- AI/ML Fundamentals
+### 🛠️ Tech Stack
 
-## Goals
-- Build impactful AI/ML projects
-- Contribute to open source
-- Strengthen problem-solving skills
-- Grow as an AI Engineer
+**Languages:** Python · Java · SQL
 
-## Tech Stack
-Python • NumPy • pandas • Matplotlib • Scikit-learn • PyTorch • Git • GitHub • SQL
+**Core CS Concepts:** Object-Oriented Programming (OOP) · Database Management Systems (DBMS)
+
+**Data Science & Analytics:** NumPy · Pandas · Matplotlib · Seaborn
+
+**Machine Learning:** Scikit-learn · Supervised Learning · Model Evaluation
+
+**Deep Learning & AI:** PyTorch · Generative AI · Prompt Engineering
+
+**Tools & Platforms:** Git · GitHub · Jupyter Notebook · Microsoft Azure ML
+
+**Currently Exploring:** Deep Learning · LLMs · AI Automation · Model Optimization 🚀
+
+
